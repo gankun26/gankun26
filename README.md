@@ -1,6 +1,10 @@
 # Bem vindo!
 Estudando Programação....👨‍💻
 
+<p align = 'center'>
+
+<img src = "https://gidigi.com/cdn/love.gif">
+
 Sou formado em desenvolvimento Web Fullstack pela Ong Recode-pro.
 
 **Tecnologias utilizadas ao longo do curso:** 🧙‍♂️
