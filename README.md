@@ -21,6 +21,9 @@ Sou formado em desenvolvimento Web Fullstack pela Ong Recode-pro.
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Linguagens mais usadas
+
+<p align = 'center'>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gankun26&layout=compact)](https://github.com/gankun26?tab=repositories)
 
 **Para entrar em contato :**
