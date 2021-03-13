@@ -10,7 +10,8 @@ Html  / Css / JavaScript  / ReactJs  / NodeJs  / PhP  / MongoDB  / Python  / Mys
 
 
 
-**Para entar em contato comigo:**
+**Para entar em contato :**
+
 [![Linkedin Badge](https://img.shields.io/badge/-Alan%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-santana-0644b915b/)](https://www.linkedin.com/in/alan-santana-0644b915b/) 
 [![Gmail Badge](https://img.shields.io/badge/-alan.nsantana@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](alan.nsantana@hotmail.com)
 
