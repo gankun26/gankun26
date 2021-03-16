@@ -5,7 +5,7 @@ Estudando Programação....👨‍💻
 
 <img src = "https://gidigi.com/cdn/love.gif">
 
-Sou formado em desenvolvimento Web Fullstack pela Ong Recode-pro.
+Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
 
 **Competencias:** 🧙‍♂️ 
 
