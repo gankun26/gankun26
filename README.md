@@ -24,7 +24,7 @@ Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
 
 <p align = 'center'>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gankun26&layout=compact)][(https://github.com/gankun26?tab=repositories)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gankun26&layout=compact)](https://github.com/gankun26?tab=repositories)
 
 **Para entrar em contato :**
 
