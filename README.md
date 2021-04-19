@@ -7,7 +7,7 @@ Estudando Programação....👨‍💻
 
 Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
 
-**Competencias:** 🧙‍♂️ 
+**Competencias:** 🧙‍♂️     
 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -20,7 +20,7 @@ Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Linguagens mais usadas
+## Linguagens mais usadas      
 
 <p align = 'center'>
   
@@ -29,7 +29,7 @@ Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
 **Para entrar em contato :**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alan%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-santana-0644b915b/)](https://www.linkedin.com/in/alan-santana-0644b915b/) 
-[![Gmail Badge](https://img.shields.io/badge/-alan.nsantana@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](alan.nsantana@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-alan.nsantana@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](alan.nsantana@hotmail.com)    
 
 
 
