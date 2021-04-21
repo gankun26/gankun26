@@ -3,9 +3,9 @@ Estudando Programação....👨‍💻
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gankun26&label=Profile%20views&color=0e75b6&style=flat" alt="gankun26" /> </p>
 
-<p align = 'center'>
-
-<img src = "https://gidigi.com/cdn/love.gif">
+<p align = 'center'> 
+ 
+<img src = "https://gidigi.com/cdn/love.gif"> 
 
 Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
 
