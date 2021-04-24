@@ -3,9 +3,9 @@ Estudando Programação....👨‍💻
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gankun26&label=Profile%20views&color=0e75b6&style=flat" alt="gankun26" /> </p>
 
-<p align = 'center'> 
+<p align = 'center'>   
  
-<img src = "https://gidigi.com/cdn/love.gif"> 
+<img src = "https://gidigi.com/cdn/love.gif">    
 
 Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
 
@@ -24,7 +24,7 @@ Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Linguagens mais usadas:     
 
-<p align = 'center'>
+<p align = 'center'>  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gankun26&layout=compact)](https://github.com/gankun26?tab=repositories)
 
@@ -32,7 +32,7 @@ Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alan%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-santana-0644b915b/)](https://www.linkedin.com/in/alan-santana-0644b915b/) 
 [![Gmail Badge](https://img.shields.io/badge/-alan.nsantana@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](alan.nsantana@hotmail.com)    
-
+  
 
 
 
