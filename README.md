@@ -38,7 +38,7 @@ Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
 **Para entrar em contato :**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alan%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-santana-0644b915b/)](https://www.linkedin.com/in/alan-santana-0644b915b/) 
-[![Gmail Badge](https://img.shields.io/badge/-alan.nsantana@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](alan.nsantana@hotmail.com)    
+[![Gmail Badge](https://img.shields.io/badge/-alansf.nsantana@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alansf.nsantana@gmail.com)](alansf.nsantana@gmail.com)    
   
 
 
