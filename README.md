@@ -14,7 +14,7 @@ Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
  <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
- <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
    <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
@@ -26,6 +26,7 @@ Sou formado em desenvolvimento Full Stack pela Ong Recode-Pro.
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/knockout/knockout-original.svg">
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
